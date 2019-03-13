@@ -1,0 +1,17 @@
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp.csprojAssemblyReference.cache
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\MainWindow.g.cs
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\App.g.cs
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp_MarkupCompile.cache
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp_MarkupCompile.lref
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\bin\Debug\DeansOfficeApp.exe.config
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\bin\Debug\DeansOfficeApp.exe
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\bin\Debug\DeansOfficeApp.pdb
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\MainWindow.baml
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp.g.resources
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp.Properties.Resources.resources
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp.csproj.GenerateResource.cache
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp.csproj.CoreCompileInputs.cache
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp.exe
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\DeansOfficeApp.pdb
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\PersonalDataWindow.g.cs
+C:\Users\s16641\Desktop\Pjatk\DeansOfficeApp\obj\Debug\PersonalDataWindow.baml

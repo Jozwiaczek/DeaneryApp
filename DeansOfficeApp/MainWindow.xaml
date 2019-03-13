@@ -1,0 +1,44 @@
+﻿<Window x:Class="DeansOfficeApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DeansOfficeApp"
+        mc:Ignorable="d"
+        Title="Dziekanat" Height="450" Width="800">
+        <DockPanel>
+        <Menu DockPanel.Dock="Top" Background="White">
+            <MenuItem Header="Plik">
+                <MenuItem x:Name="OpenPersonalData" Header="Dane personalne" />
+                <MenuItem x:Name="CloseMenuItem" Header="Zamknij" />
+            </MenuItem>
+            <MenuItem Header="Edytuj" />
+            <MenuItem Header="Moduły" />
+        </Menu>
+
+        <StackPanel DockPanel.Dock="Bottom" Margin="5" Orientation="Horizontal">
+            <Label>Semestr</Label>
+            <ComboBox MinWidth="100">
+                <ComboBoxItem IsSelected="True">2017/2018 letni</ComboBoxItem>
+                <ComboBoxItem >2017/2018 zimowy</ComboBoxItem>
+            </ComboBox>
+            <Label Margin="10 0 0 0">Wersja 1.1.2</Label>
+        </StackPanel>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+
+            <TreeView Padding="5" BorderThickness="0" x:Name="PersonTypeTreeView" Grid.Column="0" />
+
+            <GridSplitter Grid.Column="1" Width="5" />
+
+            <DataGrid x:Name="StudentsDataGrid" Grid.Column="2"/>
+
+        </Grid>
+        
+    </DockPanel>
+</Window>
